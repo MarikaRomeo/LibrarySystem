@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="LibrarySystem.Test/LibrarySystem.Test.csproj" />
+  <Project Path="LibrarySystem/LibrarySystem.csproj" />
+</Solution>
